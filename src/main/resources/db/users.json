@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "role": "ADMIN",
+    "language": "UZ",
+    "id": "1450227492414800jwkt26SFvH05r0lt1nvsbvt5Td",
+    "createdAt": "Dec 8, 2021, 6:12:51 PM",
+    "deleted": 0
+  },
+  {
+    "username": "sardor",
+    "password": "123",
+    "role": "EMPLOYEE",
+    "language": "RU",
+    "id": "1450227492414800jwkt26SFvH05r0lt1nvsbvt555",
+    "createdAt": "Dec 8, 2021, 6:12:51 PM",
+    "deleted": 0
+  }
+]

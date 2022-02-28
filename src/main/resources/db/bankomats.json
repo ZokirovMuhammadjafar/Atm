@@ -1,0 +1,62 @@
+[
+  {
+    "location": "tashkent",
+    "status": "ACTIVE",
+    "cassetes": [
+      {
+        "id": null,
+        "currency": "USD",
+        "currencyCount": 10,
+        "kupyura": "YUZ",
+        "status": "ACTIVE",
+        "atmId": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo"
+      },
+      {
+        "id": null,
+        "currency": "USD",
+        "currencyCount": 11,
+        "kupyura": "ELLIK",
+        "status": "ACTIVE",
+        "atmId": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo"
+      },
+      {
+        "id": null,
+        "currency": "UZS",
+        "currencyCount": 5,
+        "kupyura": "YUZ",
+        "status": "ACTIVE",
+        "atmId": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo"
+      },
+      {
+        "id": null,
+        "currency": "UZS",
+        "currencyCount": 10,
+        "kupyura": "ELLIK",
+        "status": "ACTIVE",
+        "atmId": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo"
+      },
+      {
+        "id": null,
+        "currency": "UZS",
+        "currencyCount": 10,
+        "kupyura": "YIGIRMA",
+        "status": "ACTIVE",
+        "atmId": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo"
+      },
+      {
+        "id": null,
+        "currency": "UZS",
+        "currencyCount": 9,
+        "kupyura": "UN",
+        "status": "ACTIVE",
+        "atmId": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo"
+      }
+    ],
+    "id": "10146698173000w6vf90sWgx9yKjy48ESxt6KISo",
+    "createdBy": null,
+    "createdAt": "Dec 10, 2021, 11:47:28 PM",
+    "updatedBy": null,
+    "updatedAt": null,
+    "deleted": 0
+  }
+]
